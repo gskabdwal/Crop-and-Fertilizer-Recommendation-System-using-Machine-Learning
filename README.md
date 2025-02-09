@@ -14,3 +14,4 @@ Agriculture plays a crucial role in global food security, and optimizing crop se
 - Matplotlib
 - Seaborn
 - Scikit Learn
+- XGBoost
